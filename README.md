@@ -1,4 +1,10 @@
-# [PROJECT TITLE]
+# Data Engineering Techniques: Reddit Sentiment Analysis
+
+| Name                    | Responsibility                        | GitHub                                                 |
+| :---------------------- | :------------------------------------ | :----------------------------------------------------- |
+| **Clemens Hafenscher**  | Data Engineering / Retrieval          | [@MrNobdy-T](https://github.com/MrNobdy-T)             |
+| **Julia Tuka**          | Machine Learning / Sentiment Analysis | [@juliatuka](https://github.com/juliatuka)             |
+| **Michael M. Werfring** | Data Visualization / Analysis         | [@MichaelWerfring](https://github.com/MichaelWerfring) |
 
 ## Getting Started
 
