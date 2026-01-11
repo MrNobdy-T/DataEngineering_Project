@@ -10,16 +10,20 @@
 
 ```bash
 # Pull latest code:
+Copy to clipboard# Pull latest code:
 git pull
 
-# Install packages:
-pip install -r requirements.txt
+# Create virtual environment
+python -m venv .venv
 
 # Activate environment (Windows)
 .venv\Scripts\activate
 
 # Activate environment (Mac/Linux)
 On Mac/Linux: `source .venv/bin/activate`
+
+# Install packages:
+pip install -r requirements.txt
 ```
 
 ## Before Pushing Code
@@ -36,5 +40,4 @@ Please place your files in the correct directories to keep the repository organi
 
 -   `/notebooks` - Jupyter notebooks
 -   `/src` - Larger utility functions (e.g., utils.py)
--   `/test` - Unit tests and validation scripts
 -   `/data` - Local data files (this folder is ignored by Git)
